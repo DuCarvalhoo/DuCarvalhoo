@@ -1,7 +1,3 @@
-<!-- ============================================================
-  README de perfil — Eduardo Corrêa de Carvalho
-  Antes de publicar, troque os marcadores:  SEU_USUARIO_GITHUB  e  SEU_INSTAGRAM
-  ============================================================ -->
 
 <div align="center">
 
@@ -199,7 +195,6 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 <table>
   <tr>
     <td align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=DuCarvalhoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" /></td>
-    <td align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuCarvalhoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=DuCarvalhoo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /></td>
@@ -208,34 +203,6 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 </div>
 
 <details>
-<summary><b>📈 Activity Graph</b> (clique para expandir)</summary>
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DuCarvalhoo&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity Graph" />
-
-</details>
-
----
-
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DuCarvalhoo&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" />
-
-  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" />
-</picture>
-
-<sub>Aqui tem código, projetos e um pouco de diversão.</sub>
-
-</div>
-
----
 
 ## 🎯 Momento profissional
 
