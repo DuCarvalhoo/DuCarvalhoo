@@ -221,7 +221,7 @@ Hoje junto o que vejo na operação de sistemas reais com o que estudo e constru
 
 <a href="https://www.linkedin.com/in/eduardo-carvalho-6b63ab324/"><img src="https://img.shields.io/badge/LinkedIn-Eduardo_Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:educarvalho1006@gmail.com"><img src="https://img.shields.io/badge/E--mail-educarvalho1006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-@Ducrv_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/ducrv_"><img src="https://img.shields.io/badge/Instagram-@Ducrv_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/><br/>
 
