@@ -138,13 +138,13 @@ _Suporte técnico e desenvolvimento web · ~1 ano_
 
 ---
 
-## 🚀 Projetos
+
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧾 Sistema de PDV
+
 `Projeto pessoal · Full-stack`
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -186,7 +186,7 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 
 ---
 
-## 💡 What I like to build
+
 
 | 🧾 Sistemas de gestão | 💳 PDV | 📦 Estoque | 🗄️ Bancos de dados |
 | :--: | :--: | :--: | :--: |
@@ -194,7 +194,7 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 
 ---
 
-## 📊 GitHub em números
+
 
 <div align="center">
 <table>
@@ -218,7 +218,7 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 
 ---
 
-## 🏆 Troféus e 🐍 Snake
+
 
 <div align="center">
 
@@ -227,9 +227,9 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-snake.svg" />
-  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" />
+  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" />
 </picture>
 
 <sub>Aqui tem código, projetos e um pouco de diversão.</sub>
