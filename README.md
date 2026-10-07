@@ -223,9 +223,6 @@ Hoje junto o que vejo na operação de sistemas reais com o que estudo e constru
 <a href="mailto:educarvalho1006@gmail.com"><img src="https://img.shields.io/badge/E--mail-educarvalho1006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://www.instagram.com/ducrv_"><img src="https://img.shields.io/badge/Instagram-@Ducrv_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<br/><br/>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DuCarvalhoo&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 <br/><br/>
 
