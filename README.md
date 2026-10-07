@@ -200,19 +200,9 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
     <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=DuCarvalhoo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /></td>
   </tr>
 </table>
-
+</div>
 <details>
 
-
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> 
-<img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> </picture>
-
-<sub>Aqui tem código, projetos e um pouco de diversão.</sub>
-
-<br/><br/>
-</div>
 
 ## 🎯 Momento profissional
 
