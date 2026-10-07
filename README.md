@@ -227,7 +227,7 @@ Hoje junto o que vejo na operação de sistemas reais com o que estudo e constru
 <br/><br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Visitantes&color=0b3d91&style=flat-square" alt="Contador de visitantes" />
+<img src="https://komarev.com/ghpvc/?username=DuCarvalhoo&label=Visitantes&color=0b3d91&style=flat-square" alt="Contador de visitantes" />
 
 <br/>
 
