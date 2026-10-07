@@ -227,7 +227,7 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" />
+
   <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" />
 </picture>
 
