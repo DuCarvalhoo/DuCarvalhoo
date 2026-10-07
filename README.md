@@ -204,7 +204,10 @@ Sistema de controle de estoque desenvolvido na faculdade, que recebeu destaque a
 <details>
 
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> </picture>
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> 
+<img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> </picture>
 
 <sub>Aqui tem código, projetos e um pouco de diversão.</sub>
 
@@ -232,7 +235,7 @@ Hoje junto o que vejo na operação de sistemas reais com o que estudo e constru
 
 <br/><br/>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DuCarvalhoo&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 <br/><br/>
 
