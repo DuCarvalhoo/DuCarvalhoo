@@ -225,6 +225,17 @@ Hoje junto o que vejo na operação de sistemas reais com o que estudo e constru
 
 <br/><br/>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> </picture>
+
+<sub>Aqui tem código, projetos e um pouco de diversão.</sub>
+
+<br/><br/>
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Visitantes&color=0b3d91&style=flat-square" alt="Contador de visitantes" />
 
 <br/>
@@ -234,12 +245,4 @@ Hoje junto o que vejo na operação de sistemas reais com o que estudo e constru
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00b4d8,50:0b3d91,100:0d1117&section=footer" alt="Rodapé" />
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
-<br/><br/>
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/DuCarvalhoo/DuCarvalhoo/output/github-snake.svg" /> </picture>
-
-<sub>Aqui tem código, projetos e um pouco de diversão.</sub>
-
-</div>
